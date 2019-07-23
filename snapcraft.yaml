@@ -1,0 +1,21 @@
+name: jhartley-one
+version: git
+summary: My test snap.
+description: |
+  Jonathan Hartley's test app,
+  that does all the things.
+
+base: core18
+confinement: devmode
+
+parts:
+  jhartley-one:
+    plugin: python
+    python-version: python3
+    source: .
+    stage-packages:
+
+apps:
+  jhartley-one:
+    command: bin/jhartley-one
+
