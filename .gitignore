@@ -1,5 +1,6 @@
 /*.egg-info/
 /build/
 /dist/
+/jhartley-one*.snap
 __pycache__/
 
