@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="jhartley-one",
-    version="0.1",
+    version="0.2",
     description="A test app",
     author="Jonathan Hartley",
     author_email="jonathan.hartley@canonical.com",
