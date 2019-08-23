@@ -1,12 +1,13 @@
 name: jhartley-one
-version: '0.4'
-summary: My updated test snap.
+version: '0.5'
+summary: My test snap 0.5.
 description: |
   Jonathan Hartley's test app,
   that does all the things.
 
 base: core18
 confinement: strict
+grade: stable
 
 parts:
   jhartley-one:
