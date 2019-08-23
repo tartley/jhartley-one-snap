@@ -1,6 +1,6 @@
 name: jhartley-one
-version: '0.2'
-summary: My test snap.
+version: '0.4'
+summary: My updated test snap.
 description: |
   Jonathan Hartley's test app,
   that does all the things.
