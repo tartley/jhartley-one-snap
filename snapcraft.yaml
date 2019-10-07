@@ -1,9 +1,10 @@
 name: jhartley-one
-version: '0.5'
-summary: My test snap 0.5.
+version: '0.6'
+summary: My swizzy test snap
 description: |
   Jonathan Hartley's test app,
   that does all the things.
+  Now with dizziness.
 
 base: core18
 confinement: strict
